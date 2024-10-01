@@ -1,0 +1,11 @@
+/* src/components/Home.css */
+.home {
+    padding: 20px;
+    background-color: #dfe6e9;
+    text-align: center;
+  }
+  
+  .home h1 {
+    color: #2d3436;
+  }
+  

@@ -1,0 +1,11 @@
+/* src/components/About.css */
+.about {
+    padding: 20px;
+    background-color: #ffeaa7;
+    text-align: center;
+  }
+  
+  .about h1 {
+    color: #636e72;
+  }
+  
